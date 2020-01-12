@@ -1,2 +1,2 @@
 # address-book
-A address book webapp in Node.js, Express and MongoDB
+An address book webapp in Node.js, Express and MongoDB
